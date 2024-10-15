@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalAssetManagement.BusinessLayer\DigitalAssetManagement.BusinessLayer.csproj" />
+    <ProjectReference Include="..\DigitalAssetManagement.Entity\DigitalAssetManagement.Entity.csproj" />
+    <ProjectReference Include="..\ConfigFile\ConfigFile.csproj" />
+    <ProjectReference Include="..\DigitalAssetManagement.Test\DigitalAssetManagement.Test.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

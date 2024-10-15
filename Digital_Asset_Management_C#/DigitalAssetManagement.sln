@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.Entity", "DigitalAssetManagement.Entity\DigitalAssetManagement.Entity.csproj", "{FDFF5CAD-2A28-499A-AF69-BA3F5E41AF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.BusinessLayer", "DigitalAssetManagement.BusinessLayer\DigitalAssetManagement.BusinessLayer.csproj", "{CE5F926F-063B-467F-8DBD-84A80BDBCFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.UI", "DigitalAssetManagement.UI\DigitalAssetManagement.UI.csproj", "{736FC8D6-7391-4EFC-9934-ECC9635A3B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.Test", "DigitalAssetManagement.Test\DigitalAssetManagement.Test.csproj", "{77D4B099-1299-49BE-9D0F-AA17AD3C749F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.Exception", "DigitalAssetManagement.Exception\DigitalAssetManagement.Exception.csproj", "{9465ACF5-EF11-47FD-820A-D630C734B1AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalAssetManagement.Util", "DigitalAssetManagement.Util\DigitalAssetManagement.Util.csproj", "{88B4CB5A-88AB-4DD0-8492-6E6D14F51DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDFF5CAD-2A28-499A-AF69-BA3F5E41AF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFF5CAD-2A28-499A-AF69-BA3F5E41AF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFF5CAD-2A28-499A-AF69-BA3F5E41AF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFF5CAD-2A28-499A-AF69-BA3F5E41AF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5F926F-063B-467F-8DBD-84A80BDBCFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5F926F-063B-467F-8DBD-84A80BDBCFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5F926F-063B-467F-8DBD-84A80BDBCFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5F926F-063B-467F-8DBD-84A80BDBCFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{736FC8D6-7391-4EFC-9934-ECC9635A3B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736FC8D6-7391-4EFC-9934-ECC9635A3B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736FC8D6-7391-4EFC-9934-ECC9635A3B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736FC8D6-7391-4EFC-9934-ECC9635A3B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D4B099-1299-49BE-9D0F-AA17AD3C749F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D4B099-1299-49BE-9D0F-AA17AD3C749F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D4B099-1299-49BE-9D0F-AA17AD3C749F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D4B099-1299-49BE-9D0F-AA17AD3C749F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9465ACF5-EF11-47FD-820A-D630C734B1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9465ACF5-EF11-47FD-820A-D630C734B1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9465ACF5-EF11-47FD-820A-D630C734B1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9465ACF5-EF11-47FD-820A-D630C734B1AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B4CB5A-88AB-4DD0-8492-6E6D14F51DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B4CB5A-88AB-4DD0-8492-6E6D14F51DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B4CB5A-88AB-4DD0-8492-6E6D14F51DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B4CB5A-88AB-4DD0-8492-6E6D14F51DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

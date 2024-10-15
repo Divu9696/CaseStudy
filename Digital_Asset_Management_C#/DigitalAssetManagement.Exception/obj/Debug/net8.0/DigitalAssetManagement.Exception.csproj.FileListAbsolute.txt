@@ -1,0 +1,11 @@
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/bin/Debug/net8.0/DigitalAssetManagement.Exception.deps.json
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/bin/Debug/net8.0/DigitalAssetManagement.Exception.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/bin/Debug/net8.0/DigitalAssetManagement.Exception.pdb
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/DigitalAssetManagement.Exception.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/DigitalAssetManagement.Exception.AssemblyInfoInputs.cache
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/DigitalAssetManagement.Exception.AssemblyInfo.cs
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/DigitalAssetManagement.Exception.csproj.CoreCompileInputs.cache
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/DigitalAssetManagement.Exception.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/refint/DigitalAssetManagement.Exception.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/DigitalAssetManagement.Exception.pdb
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Exception/obj/Debug/net8.0/ref/DigitalAssetManagement.Exception.dll

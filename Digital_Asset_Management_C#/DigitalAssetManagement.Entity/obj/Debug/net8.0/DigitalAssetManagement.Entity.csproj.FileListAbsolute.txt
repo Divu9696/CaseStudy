@@ -1,0 +1,11 @@
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/bin/Debug/net8.0/DigitalAssetManagement.Entity.deps.json
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/bin/Debug/net8.0/DigitalAssetManagement.Entity.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/bin/Debug/net8.0/DigitalAssetManagement.Entity.pdb
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/DigitalAssetManagement.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/DigitalAssetManagement.Entity.AssemblyInfoInputs.cache
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/DigitalAssetManagement.Entity.AssemblyInfo.cs
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/DigitalAssetManagement.Entity.csproj.CoreCompileInputs.cache
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/DigitalAssetManagement.Entity.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/refint/DigitalAssetManagement.Entity.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/DigitalAssetManagement.Entity.pdb
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Entity/obj/Debug/net8.0/ref/DigitalAssetManagement.Entity.dll

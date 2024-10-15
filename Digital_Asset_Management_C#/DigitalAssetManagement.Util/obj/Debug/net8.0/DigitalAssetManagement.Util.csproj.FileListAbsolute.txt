@@ -1,0 +1,15 @@
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/bin/Debug/net8.0/DigitalAssetManagement.Util.deps.json
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/bin/Debug/net8.0/DigitalAssetManagement.Util.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/bin/Debug/net8.0/DigitalAssetManagement.Util.pdb
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/bin/Debug/net8.0/DigitalAssetManagement.Entity.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/bin/Debug/net8.0/DigitalAssetManagement.Entity.pdb
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalAssetManagement.Util.csproj.AssemblyReference.cache
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalAssetManagement.Util.GeneratedMSBuildEditorConfig.editorconfig
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalAssetManagement.Util.AssemblyInfoInputs.cache
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalAssetManagement.Util.AssemblyInfo.cs
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalAssetManagement.Util.csproj.CoreCompileInputs.cache
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalA.550B9EC2.Up2Date
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalAssetManagement.Util.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/refint/DigitalAssetManagement.Util.dll
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/DigitalAssetManagement.Util.pdb
+/Users/divyanshusingh/Desktop/Digital_Asset_Management_C#/DigitalAssetManagement.Util/obj/Debug/net8.0/ref/DigitalAssetManagement.Util.dll
